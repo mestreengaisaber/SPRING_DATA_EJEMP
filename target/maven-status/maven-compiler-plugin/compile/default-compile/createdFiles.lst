@@ -1,0 +1,4 @@
+repositorios\PersonaRepository.class
+com\example\DemoEsnApplication.class
+entidades\Persona.class
+configuracion\SpringConfiguracion.class
